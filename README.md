@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yuvraj-Jaiswal
-- 👀 I’m interested in Deep Learning mainly CNN and DCGAN
-- 🌱 I’m currently learning DeepFakes
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Deep Learning mainly Object Detection using Deep Learing (Yolov5) , DCGAN , CNN.
+- 🌱 I’m currently learning Automation in Self Driving Car using Real World Simulator.
+- 💞️ I’m looking to collaborate on Deep Learing Projects.
 - 📫 How to reach me yuvrajjaiswal655@gmail.com
 
 <!---
