@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Yuvraj-Jaiswal
-- 👀 I’m interested in Deep Learning mainly Object Detection using Deep Learing (Yolov5) , DCGAN , CNN.
-- 🌱 I’m currently learning Automation in Self Driving Car using Real World Simulator.
-- 💞️ I’m looking to collaborate on Deep Learing Projects.
-- 📫 How to reach me yuvrajjaiswal655@gmail.com
+Yuvraj Jaiswal
+🚀 Passionate Software Engineer and Machine Learning Enthusiast
 
-<!---
-Yuvraj-Jaiswal/Yuvraj-Jaiswal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📧 yuvrajj982@gmail.com
+🌐 LinkedIn | GitHub
+
+💡 About Me
+I'm Yuvraj Jaiswal, a dedicated software engineer with a strong focus on machine learning, deep learning, and generative AI. I thrive on solving complex problems and continuously improving my skills through hands-on experience and competitive challenges.
+
+🛠️ Skills
+Languages: Python, SQL, HTML, CSS, JavaScript
+Technologies & Tools: Machine Learning, Deep Learning, Generative AI, VertexAI, LangChain, HuggingFace, TensorFlow, Keras, PyTorch, Numpy, Pandas, Vector Search, Flask, FastAPI, Django, Git, GitHub, Docker
+Cloud Platforms: Google Cloud Platform, Firebase, Cloud Bucket, Cloud Run, Compute Engine
+Data Tools: MySQL, Google Colab, Kaggle
+
+🌟 Achievements
+CAT 2023: 87th Percentile
+Quantitative Aptitude: 93.83th Percentile
+Verbal Ability: 90.37th Percentile
+
+LeetCode: Solved 415+ problems
+Easy: 97.35th Percentile
+Medium: 94.7th Percentile
